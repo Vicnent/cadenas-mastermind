@@ -3,8 +3,7 @@ generate 4 digits mastermind solution
 
 ### Explanation of the Mastermind Puzzle Algorithm
 
-This Python script implements an algorithm to generate and solve a Mastermind-like puzzle, where a 4-digit code (with distinct digits, the first being non-zero) is created, and a set of clues is provided to uniquely identify the solution. The code is designed to be clear, modular, and suitable for sharing on GitHub. Below is a detailed explanation of each component, its purpose, and how the algorithm works, formatted for clarity in a GitHub README or documentation.
-
+This Python script implements an algorithm to generate and solve a Mastermind-like puzzle, where a 4-digit code (with distinct digits, the first being non-zero) is created, and a set of clues is provided to uniquely identify the solution. The code is designed to be clear, modular, and suitable for sharing on GitHub. 
 ---
 
 ## Overview
